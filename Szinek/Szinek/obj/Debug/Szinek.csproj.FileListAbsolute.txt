@@ -1,0 +1,10 @@
+E:\projektek\programozas\c#\Szinek\Szinek\bin\Debug\Szinek.exe.config
+E:\projektek\programozas\c#\Szinek\Szinek\bin\Debug\Szinek.exe
+E:\projektek\programozas\c#\Szinek\Szinek\bin\Debug\Szinek.pdb
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.csprojAssemblyReference.cache
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.Form1.resources
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.Properties.Resources.resources
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.csproj.GenerateResource.cache
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.csproj.CoreCompileInputs.cache
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.exe
+E:\projektek\programozas\c#\Szinek\Szinek\obj\Debug\Szinek.pdb
